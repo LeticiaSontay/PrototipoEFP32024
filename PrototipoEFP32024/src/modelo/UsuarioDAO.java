@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Controlador;
+package modelo;
 
+import Controlador.Usuario;
 import Controlador.Usuario;
 import java.sql.*;
 import java.util.ArrayList;
