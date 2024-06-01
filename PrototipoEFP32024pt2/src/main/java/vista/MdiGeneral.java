@@ -39,10 +39,6 @@ public class MdiGeneral extends javax.swing.JFrame {
         mnuCatalogos = new javax.swing.JMenu();
         mnuCatalogosMantenimiento = new javax.swing.JMenu();
         Mantenimientobodega = new javax.swing.JMenuItem();
-        mnuProcesos = new javax.swing.JMenu();
-        ProcesosAlumnos = new javax.swing.JMenu();
-        ProcesosAlumnosAsignCursos = new javax.swing.JMenuItem();
-        RegistroMaestros = new javax.swing.JMenuItem();
         mnuReportes = new javax.swing.JMenu();
         mnuSeguridad = new javax.swing.JMenu();
         mnuSeguridadBitacora = new javax.swing.JMenuItem();
@@ -101,30 +97,6 @@ public class MdiGeneral extends javax.swing.JFrame {
 
         jMenuBar1.add(mnuCatalogos);
 
-        mnuProcesos.setText("Procesos");
-
-        ProcesosAlumnos.setText("Alumnos");
-
-        ProcesosAlumnosAsignCursos.setText("Asignacion Cursos");
-        ProcesosAlumnosAsignCursos.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                ProcesosAlumnosAsignCursosActionPerformed(evt);
-            }
-        });
-        ProcesosAlumnos.add(ProcesosAlumnosAsignCursos);
-
-        RegistroMaestros.setText("Registro Maestros");
-        RegistroMaestros.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                RegistroMaestrosActionPerformed(evt);
-            }
-        });
-        ProcesosAlumnos.add(RegistroMaestros);
-
-        mnuProcesos.add(ProcesosAlumnos);
-
-        jMenuBar1.add(mnuProcesos);
-
         mnuReportes.setText("Reportes");
         jMenuBar1.add(mnuReportes);
 
@@ -166,19 +138,6 @@ public class MdiGeneral extends javax.swing.JFrame {
     private void mnuSeguridadBitacoraActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuSeguridadBitacoraActionPerformed
       
     }//GEN-LAST:event_mnuSeguridadBitacoraActionPerformed
-
-    private void ProcesosAlumnosAsignCursosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProcesosAlumnosAsignCursosActionPerformed
-        // TODO add your handling code here:
-
-    
-    }//GEN-LAST:event_ProcesosAlumnosAsignCursosActionPerformed
-
-    private void RegistroMaestrosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RegistroMaestrosActionPerformed
-        // TODO add your handling code here:
-        
-
-        
-    }//GEN-LAST:event_RegistroMaestrosActionPerformed
 
     private void mnuCatalogosMantenimientoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuCatalogosMantenimientoActionPerformed
         // TODO add your handling code here:
@@ -238,9 +197,6 @@ MantenimientoBodega ventana1 = new MantenimientoBodega();
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JMenuItem Mantenimientobodega;
-    private javax.swing.JMenu ProcesosAlumnos;
-    private javax.swing.JMenuItem ProcesosAlumnosAsignCursos;
-    private javax.swing.JMenuItem RegistroMaestros;
     private javax.swing.JDesktopPane jDesktopPane1;
     private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JMenuItem jMenuItem1;
@@ -251,7 +207,6 @@ MantenimientoBodega ventana1 = new MantenimientoBodega();
     private javax.swing.JMenu mnuAyudas;
     private javax.swing.JMenu mnuCatalogos;
     private javax.swing.JMenu mnuCatalogosMantenimiento;
-    private javax.swing.JMenu mnuProcesos;
     private javax.swing.JMenu mnuReportes;
     private javax.swing.JMenu mnuSeguridad;
     private javax.swing.JMenuItem mnuSeguridadBitacora;
