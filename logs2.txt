@@ -1,0 +1,71 @@
+commit edcd1f34cd5e328dd46879c77efb40346c4dacaa
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 22:37:12 2024 -0600
+
+    ultimo agregado
+
+commit b8f90554e5ba62e5230d15d9f9e48b6669ddf171
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 21:32:10 2024 -0600
+
+    Agregados_cambios
+
+commit 036f42c561b88b72804852f0ef5111ee02877ba3
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 21:10:40 2024 -0600
+
+    Agregado_vista
+
+commit 72cc317f452b5cded299685fa6758823bb17b00f
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 20:52:31 2024 -0600
+
+    Agregado_modelo
+
+commit 4532fae3987a202022923765421ba6354fe5456a
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 20:44:30 2024 -0600
+
+    Agregado_controlador
+
+commit 9db1a4f60ec2bf49c7f0e41690efafa9042682f3
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 20:38:00 2024 -0600
+
+    Proy_funcionando
+
+commit 18c712e7435f824166f1fc15488788986db4ac22
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 11:40:52 2024 -0600
+
+    Agregado_log
+
+commit b85e775731fe666747fae1a29dfef4d429769d2e
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 11:30:28 2024 -0600
+
+    Agregado_vista
+
+commit c4ae84758fbd91dedf2bdfa15179c6a749d31d37
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 10:52:12 2024 -0600
+
+    cambio
+
+commit 4e8acc4f07406ad844a6874602ec14e89ada201e
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 10:46:33 2024 -0600
+
+    Agregdo_DAO
+
+commit 13fbb9e0cd4b8ea3d422079201b3fc5875f0174a
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Fri May 31 10:07:54 2024 -0600
+
+    Agregado base
+
+commit c38fa5e77ba2ecd64e0c95c33a023a26728a66d8
+Author: Leticia <97976606+LeticiaSontay@users.noreply.github.com>
+Date:   Fri May 31 09:45:32 2024 -0600
+
+    Initial commit
